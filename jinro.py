@@ -5,7 +5,7 @@ import discord
 client = discord.Client()
 
 # 人狼アプリのトークン設定
-BOT_TOKEN = "NTc5MzEyMTA3NDk4MjQyMDY1.XOAoRQ.bA4hvCmxwWYQ1KhspbksrNQRLW0"
+BOT_TOKEN = "********"
 
 # イベント設定
 @client.event
